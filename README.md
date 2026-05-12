@@ -1,4 +1,4 @@
-# Oi, eu sou o Josué! 👋
+# Oi, meu nome é Josué! 👋
 
 Estudante de Sistemas de Informação e Full Stack Dev em formação pelo bootcamp da **Generation Brasil**.
 
